@@ -15,3 +15,11 @@
 - create a context and import it
 - add provider for the context with a value and value could be anything
 - useContext to access value in the context API
+
+# Topics I practice in this project
+
+- different types of forms
+- controlled and uncotrolled components
+- useRef
+- custom hooks
+- context API
